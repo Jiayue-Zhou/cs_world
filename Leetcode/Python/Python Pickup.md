@@ -6,4 +6,7 @@ map = {}
 
 # s: str
 new_str = sorted(s)
+
+# s: str/char
+s.isalnum(), s.isalpha(), s.isdigit()
 ```
