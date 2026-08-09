@@ -13,5 +13,5 @@ for (Character c : map.keySet()) {}
 String cur = strs[i];
 char[] chs = cur.toCharArray();
 Arrays.sort(chs);
-
+String temp = String.valueOf(chs);
 ```
