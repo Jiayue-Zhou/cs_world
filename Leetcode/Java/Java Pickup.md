@@ -1,5 +1,9 @@
 ### Under contruction
 
+### Array
+int[] array;
+int size = array.length;
+
 ### HashMap
 ```java
 HashMap<Integer, Boolean> map = new HashMap();
