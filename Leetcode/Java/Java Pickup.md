@@ -1,4 +1,3 @@
-### Under contruction
 
 ### Array
 ```java
