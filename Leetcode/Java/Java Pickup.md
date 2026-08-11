@@ -1,8 +1,10 @@
 ### Under contruction
 
 ### Array
+```java
 int[] array;
 int size = array.length;
+```
 
 ### HashMap
 ```java
