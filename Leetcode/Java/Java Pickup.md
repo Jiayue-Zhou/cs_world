@@ -1,3 +1,9 @@
+### Number
+```java
+Integer.MAX_VALUE;
+Integer.MIN_VALUE;
+```
+
 
 ### Array
 ```java
