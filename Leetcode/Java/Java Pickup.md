@@ -18,6 +18,7 @@ HashMap<Integer, Boolean> map = new HashMap();
 map.put(nums[i], true);
 map.containsKey(nums[i));
 for (Character c : map.keySet()) {}
+map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
 ```
 
 ### String
