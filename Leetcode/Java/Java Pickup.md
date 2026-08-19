@@ -27,3 +27,8 @@ char[] chs = cur.toCharArray();
 Arrays.sort(chs);
 String temp = String.valueOf(chs);
 ```
+
+### Queue
+```java
+PriorityQueue<Node> pq = new PriorityQueue<>((a, b) -> (b.freq - a.freq));
+```
