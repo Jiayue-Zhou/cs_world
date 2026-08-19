@@ -9,6 +9,7 @@ Integer.MIN_VALUE;
 ```java
 int[] array;
 int size = array.length;
+Arrays.fill(array, -1);
 ```
 
 ### HashMap
