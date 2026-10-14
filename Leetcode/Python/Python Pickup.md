@@ -9,4 +9,7 @@ new_str = sorted(s)
 
 # s: str/char
 s.isalnum(), s.isalpha(), s.isdigit()
+
+# get the length of a list
+len(list)
 ```
