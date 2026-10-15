@@ -3,6 +3,7 @@ set1 = set()
 set1.add()
 
 map = {}
+map.get(num, 0)
 
 # s: str
 new_str = sorted(s)
