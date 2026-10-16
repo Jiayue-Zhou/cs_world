@@ -2,6 +2,9 @@
 set1 = set()
 set1.add()
 
+max_val = float('inf')   # 正无穷
+min_val = float('-inf')  # 负无穷
+
 map = {}
 map.get(num, 0)
 
